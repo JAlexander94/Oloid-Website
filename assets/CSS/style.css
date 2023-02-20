@@ -1,0 +1,18 @@
+.card-img-overlay {
+  background-color: antiquewhite;
+  opacity: 0.9;
+  height: fit-content;
+}
+.card-text{
+  color: black;
+}
+
+#quarterly-row{
+  width: 400%;
+  position: relative;
+  left: -50%;
+}
+
+.quarterly-card{
+  border: none;
+}
