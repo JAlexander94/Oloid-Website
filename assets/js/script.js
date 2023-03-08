@@ -18,7 +18,7 @@ function startScrolling(){
     container.appendChild(container.firstElementChild); // Move the first card to the end of the container
   }
   container.style.left = newPosition + "px";
-}, 30); // Increase the interval speed to make the animation smoother
+}, 15); // Increase the interval speed to make the animation smoother
 }
 
 startScrolling();

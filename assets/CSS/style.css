@@ -15,4 +15,14 @@
 
 .quarterly-card{
   border: none;
+  color: black !important;
+}
+
+ul{
+  list-style: none;
+}
+
+.memo-link{
+  color: black;
+  text-decoration: underline;
 }
