@@ -8,7 +8,7 @@
 }
 
 #quarterly-row{
-  width: 400%;
+  width: 267%;
   position: relative;
   left: -50%;
 }
@@ -31,4 +31,7 @@ ul{
 .memo-link{
   color: black;
   text-decoration: underline;
+}
+.nav-item{
+  margin-right: 1vw;
 }
