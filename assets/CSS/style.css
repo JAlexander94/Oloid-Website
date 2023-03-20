@@ -16,6 +16,12 @@
 .quarterly-card{
   border: none;
   color: black !important;
+  margin-top: 4vh;
+  margin-bottom: 4vh;
+  height: 92vh;
+}
+.card-img{
+  max-height: 100%;
 }
 
 ul{
