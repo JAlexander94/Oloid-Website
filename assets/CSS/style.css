@@ -6,8 +6,12 @@
 .card-text{
   color: black;
 }
-.navbar{
+.navbar, .navbar-collapse{
   background-color: #071013;
+  z-index: 3;
+}
+.navbar-collapse{
+  padding: 2vh;
 }
 
 #quarterly-row{
@@ -37,4 +41,25 @@ ul{
 }
 .nav-item{
   margin-right: 1vw;
+}
+
+.quarterly-body{
+  background-color: #DFE0E2;
+}
+
+h2{
+  font-size: 80px;
+  color: #DFE0E2;
+}
+
+.home-body, .quarterly-body{
+background-color: #071013;
+}
+
+.home-row{
+  border-top: 5px solid #B7999C;
+}
+
+.quarterly-nav{
+  border-bottom: 5px solid #B7999C;
 }
