@@ -6,6 +6,9 @@
 .card-text{
   color: black;
 }
+.navbar{
+  background-color: #071013;
+}
 
 #quarterly-row{
   width: 267%;
